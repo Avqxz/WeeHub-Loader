@@ -10,4 +10,4 @@
 ]]
 
 -- WeeHub public loader. The key screen validates access before downloading the hub.
-loadstring(game:HttpGet("https://weehub-site.weehub-backend.workers.dev/loader.lua"))()
+loadstring(game:HttpGet("https://weehub-site.pages.dev/loader.lua"))()
