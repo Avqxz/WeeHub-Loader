@@ -6,7 +6,7 @@
     \_/\_/ \___|\___| |_| |_|\__,_|_.__/
 
                     WeeHub
-        https://weehub.weehub-backend.workers.dev/
+        https://weehub-site.pages.dev/
 ]]
 
 -- WeeHub public loader. The key screen validates access before downloading the hub.
